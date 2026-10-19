@@ -1,0 +1,13 @@
+{
+  "name": "personal-profile-app",
+  "version": "1.0.0",
+  "description": "A simple Express personal profile app for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
